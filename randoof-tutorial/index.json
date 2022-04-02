@@ -25,10 +25,7 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "Host1": {"host01": [
-      {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}]
-  }
+    }
 },
   "environment": {
     "uilayout": "terminal",
