@@ -27,7 +27,8 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uilayout": "java"
   },
   "backend": {
     "imageid": "ubuntu:2004"
