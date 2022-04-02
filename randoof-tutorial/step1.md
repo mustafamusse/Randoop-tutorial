@@ -1,8 +1,7 @@
-# Heading for Step 1
+# Creating the enviroment  
+Start of by creating the java file that where the functions will be written
 
-This is some text.
+This can be done by running the code 
 
-Here's a single line of runnable code:
-
-`printf 'Hello, world!\n\n'`{{execute}}
+`touch app.java`{{execute}}
 
