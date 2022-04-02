@@ -4,6 +4,11 @@
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
+    "assets": {
+      "host01": [
+          {"file": "randoop-all-4.3.0.jar", "target": "/usr/local/bin/", "chmod": "+x"}
+      ]
+  },
     "steps": [
       {
         "title": "Step 1",
