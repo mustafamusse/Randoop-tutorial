@@ -27,8 +27,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uilayout": "java"
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
     "imageid": "ubuntu:2004"
