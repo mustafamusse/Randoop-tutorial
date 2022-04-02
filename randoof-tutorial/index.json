@@ -26,6 +26,9 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "app.java"
+  ],
   "environment": {
     "uilayout": "terminal",
     "uilayout": "vscode-terminal-split"
