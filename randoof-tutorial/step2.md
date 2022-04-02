@@ -1,9 +1,9 @@
 # Create a simple function
 
-This is some text.
+Here's a simple function that adds three different varaibles called add:
 
-Here's a single line of runnable code:
 
+`
 ```
 class app {
     public static void main(String[] args) {
@@ -11,6 +11,6 @@ class app {
     }
 }
 ```
-
+`{{copy}}
 `printf 'Jello, world!\n\n'`{{execute}}
 
