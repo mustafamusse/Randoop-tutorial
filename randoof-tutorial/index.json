@@ -27,9 +27,7 @@
     }
   },
   "environment": {
-    "uieditorpath": "/root/example",
     "showide": true,
-    "idePort": 23000,
     "uilayout": "terminal"
   },
   "backend": {
