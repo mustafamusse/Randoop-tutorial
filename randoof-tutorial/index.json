@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-    "showide": true,
+    "uilayout": "vscode-terminal-split",
     "uilayout": "terminal"
   },
   "backend": {
