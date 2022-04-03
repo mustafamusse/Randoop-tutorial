@@ -10,15 +10,16 @@ The idea is to create a executuble tutorial that teaches how to generate tests u
 # Solution
 Tutorial can be found here: [Randoop tutorial](https://www.katacoda.com/mustafamusse/scenarios/randoof-tutorial)
 
-# Aiming for:
-
-|                                             | Yes | No | Remarkable |
-|-------------------------------------------- | ----|----|-------------|
-|The TA can successful execute all the commands of the tutorial (mandatory) | ✅Yes | No | ✅In the browser |
-|If local execution, runs on Linux | ✅Yes | No | ✅Easy to setup and run  |
-|The tutorial gives enough background | ✅Yes | No | Comprehensive background |
-|The tutorial is easy to follow  | ✅Yes | No | ✅Well documented |
-|The tutorial is original, no such tutorial exists on the web | ✅Yes | No | The teaching team never heard about it |
-|The tutorial contains [easter eggs](https://github.com/OrkoHunter/python-easter-eggs) | ✅Yes | No | Subtle and fun |
-|The tutorial is successful (attracts comments and success) | ✅Yes | No | Lively discussion |
-|The language is correct | ✅Yes | No | Interesting narrative  |
+|                                             | Yes | No | 
+|-------------------------------------------- | ----|----|
+|executable: The tutorial can be automatically executed from beginning to the end, in the browser or in CI (see below) | ✅Mandatory | - | 
+|ilo: The tutorial states the intended learning outcomes. | ✅Mandatory | - | 
+|motivation: The tutorial is clearly motivated (why it matters for Devops?) | ✅Yes | No | 
+|browser-based: The tutorial can be successful executed in the browser (katacoda is recommended) | ✅Yes | No | 
+|ci-based: The tutorial can successful be executed as a CI job | Yes | No | 
+|background: The tutorial gives enough background | ✅Yes | No | 
+|illustrated: The tutorial is illustrated with an informative figure (eg a flowchart) | Yes | No | 
+|pedagogical: The tutorial is easy to follow  | ✅Yes | No | 
+|original: The tutorial is original, no or few similar tutorials exist on the web | ✅Yes | No |
+|easter-eggs: The tutorial contains an easter egg | Yes | No | 
+|language: The language is appropriate (structure, grammar, spelling) | ✅Yes | No |
