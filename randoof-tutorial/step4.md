@@ -9,7 +9,7 @@ Now lets go in the directory by using the command:
 
 Now that you are in the right directory we can generate the tests in here.
 
-`java -classpath "../randoop-all-4.3.0.jar" randoop.main.Main gentests --testclass=java.util.TreeSet`{{execute}}
+`java -ea -classpath randoop-all-4.3.0.jar:/root randoop.main.Main gentests --testclass=Message`{{execute}}
 
 The generated tests will be in the folder Tests that can be found by the listed files in visual studio code where we can open and view them.
 
