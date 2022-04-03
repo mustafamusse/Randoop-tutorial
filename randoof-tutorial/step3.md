@@ -1,8 +1,14 @@
-# Heading for Step 3
+# Create a simple function
+Here's a simple function that adds three different varaibles called add:
 
-This is some text.
+`
+```class app {
 
-Here's a single line of runnable code:
-
-`printf 'Cello, world!\n\n'`{{execute}}
+public int sum(int a, int b){
+    return  a + b;
+    }
+public int sum(int a, int b, int c){
+    return a+b+c;
+    }
+}`{{copy}}
 

@@ -1,16 +1,8 @@
-# Create a simple function
+# Lets start generating our own tests
+## Creating the enviroment
+Start of by creating the java file that where the functions will be written
 
-Here's a simple function that adds three different varaibles called add:
+This can be done by running the code 
 
-
-`class app {
-
-public int sum(int a, int b){
-    return  a + b;
-    }
-
-public int sum(int a, int b, int c){
-    return a+b+c;
-    }
-}`{{copy}}
+`touch app.java`{{execute}}
 

@@ -9,7 +9,6 @@
       "host01": [
           {"file": "randoop-all-4.3.0.jar", "target": "", "chmod": "+x"},
           {"file": "empty.txt", "target": ".", "chmod": "+x"}
-
       ]
    },
 
