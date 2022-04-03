@@ -3,15 +3,13 @@ Here's two simple function that adds two or three different varaibles called sum
 
 `public class Message {
    private String message;
-  
    public Message(String message){
       this.message = message;
    }   
    public String printMessage(){
       System.out.println(message);
       return message;
-   }   
-}`{{copy}}
+}}`{{copy}}
 
 These are the functions that we are going to be generating randoop tests for, they can be as simple as these or more complex. You can write your own functions and test if you would like that aswell.   
 
