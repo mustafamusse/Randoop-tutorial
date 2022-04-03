@@ -1,5 +1,5 @@
 # Create a simple function
-Here's two simple function that adds two or three different varaibles called sum. Both of the functions take integers as input and gives us the sum of the integers.
+This is a class that takes a message, prints it and returns the message.
 
 `public class Message {
    private String message;

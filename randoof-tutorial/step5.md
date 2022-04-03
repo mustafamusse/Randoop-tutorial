@@ -12,3 +12,5 @@ By now we are done with generating Junit test cases using Randoop API which was 
 There are many flags that can be used in order to create variataions of randoop tests. This can be used by adding "-- < flag >" at the end of the randoop command. 
 
 <img src="https://github.com/mustafamusse/Randoop-tutorial/blob/main/randoof-tutorial/flags.png?raw=true" alt="location of the tests generated" style="width:300px;"/>
+
+Good job you have now created tests using randoop!
