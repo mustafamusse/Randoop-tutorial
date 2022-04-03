@@ -15,5 +15,5 @@ These are the functions that we are going to be generating randoop tests for, th
 
 Now we need to compile the file that we have created, this can be done with the following command.
 `javac Message.java`{{execute}}
-# What to do
+# What to do in this step
 Please copy and paste these function to add them to the file Message.java which was is generated from our previous step.
