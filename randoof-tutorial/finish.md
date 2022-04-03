@@ -1,20 +1,15 @@
+# What we learned
+- Why tests in software developement are useful
+- How to generate tests using randoop
 
-On the finish page, summarize what was just learned:
+Why testing is important in DevOps
+Using test automation, DevOps can: Use test cases to detect bugs and save time. Unlike manual testing, automatic test cases make testing faster, which means you can deploy products to market more quickly. Use software programs to test applications and minimize the chance of human error.
 
-- 3-4 bullets
-- of what you just
-- did and learned
+Writing tests is important, but difficult and time-consuming. Randoop automatically generates unit tests for Java classes. Randoop has had many successful applications, especially with library classes (such as java.util). Randoop is used at companies like ABB and Microsoft, and on open-source projects.
 
-## Table of Contents
 
-If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
-
-- Scenario A
-- Scenario B
-- Scenario C
-
-## Further Learning
-
-You could link to other learning resources here. What is a good next step for a learner who just completed this scenario?
+## Authors
+- Mustafa Ali
+- Rafi youssef
 
 
