@@ -13,9 +13,10 @@ Now that you are in the right directory we can generate the tests and place them
 
 This should take about a minute to create all the different tests for the Message class.
 
+(You will probobly see many "hi" when executing the given code by us in the terminal. This is the randoop testing the code generating testcases for your program) 
 # Clarifications
-The structure on how to run the randoop generation test is by 
-`java -ea -classpath <Location of the randoop jar file>:<Location of the .class file> randoop.main.Main gentests --testclass=<Class file name>`
+The structure on how to run the Randoop generation test is by 
+`java -ea -classpath <Location of the Randoop jar file>:<Location of the .class file> randoop.main.Main gentests --testclass=<Class file name>`
 
 # Running this on your own computer
 To be able to run this on your own computer you need the ranoop jar file which is avalibe here:
