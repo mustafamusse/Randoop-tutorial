@@ -3,7 +3,7 @@
 - How to generate tests using randoop
 
 ## Conclusion
-Writing tests is important, but difficult and time-consuming. Randoop automatically generates unit tests for Java classes. Randoop has had many successful applications, especially with library classes (such as java.util). Randoop is used at companies like ABB and Microsoft, and on open-source projects.
+Writing tests is important for software developers, but difficult and time-consuming. Using tools such as randoop which automatically generates unit tests for Java classes reduces the lifecycle software development. Randoop has had many successful applications, especially with library classes (such as java.util). Randoop is used at companies like ABB and Microsoft, and on open-source projects.
 
 ## Authors
 - Mustafa Ali
