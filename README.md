@@ -8,6 +8,7 @@
 The idea is to create a executuble tutorial that teaches how to generate tests using the tool randoop. This will be an executble tutorial on katacoda.com and will explain why testing is important and how they can be done using the java tool randoop.
 
 # Solution
+The [code](https://github.com/mustafamusse/Randoop-tutorial) can be found here  
 Tutorial can be found here: [Randoop tutorial](https://www.katacoda.com/mustafamusse/scenarios/randoof-tutorial)
 
 |                                             | Yes | No | 
