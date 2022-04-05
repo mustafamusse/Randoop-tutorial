@@ -16,7 +16,7 @@ Step 1:
 - General information on why testing is important
 
 Step 2:
-Create a java file
+- Create a java file
 
 Step 3:
 - Create a simple function that the tool should test
