@@ -1,4 +1,4 @@
-# Randoop Test generation tool
+# Randoop test generation tool
 This is a tutorial on how to use the test generational tool called Randoop which is avalible for programming language Java.
 
 ## Prerequisite Skills
