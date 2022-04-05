@@ -3,7 +3,7 @@ Testing is the identification and subsequent removal of the errors. However, tes
 
 Creating tests is a difficult, time-consuming process requires technical sophistication and proper planning. Testers must not only have good development skills—testing often requires a great deal of coding—but also be knowledgeable in formal languages, graph theory, and algorithms.
 
-## Using test automation
+## Using test automation in devops
 Using test automations, devops can use test cases to detect bugs and save time. Unlike manual testing, automatic test cases make testing faster, which means you can deploy products to market more quickly. Use software programs to test applications and minimize the chance of human error.
 
 # Randoop
