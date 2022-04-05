@@ -7,7 +7,7 @@ After running the commands all test cases of the Message.class file would be lis
 <img src="https://github.com/mustafamusse/Randoop-tutorial/blob/main/randoof-tutorial/location.png?raw=true" alt="location of the tests generated" style="width:300px;"/>
 
 # Optional step
-By now we are done with generating Junit test cases using Randoop API which was our aim goal. Still some useful set of operations are listed in the tabular format below to get a stronghold over Randoop API. They are as follows:
+By now we are done with generating Junit test cases using Randoop API which was our aim goal. Still some useful set of operations are listed in the tabular format below to get a stronghold over Randoop API. They are listed below
 
 There are many flags that can be used in order to create variataions of randoop tests. This can be used by adding "-- < flag >" at the end of the randoop command. 
 
